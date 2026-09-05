@@ -1,12 +1,9 @@
-# Hi, I'm Akshat Sharma 👋
+# Hi, I'm Akshat
 
-Computer Science student learning in public.
+Computer Science student. I build AI meeting assistants and small web apps.
 
-**Interests:** Python · Web dev · AI agents
+- **DealForge** — BYOK meeting lead-generation bot (Python): spots buying-intent questions in live meeting chat and answers from your sales docs.
+- **dealforge1** — AI-powered Zoom app for sales meeting intelligence, lead management, and automated outreach (TypeScript).
+- **Moo** — a single-page mental-wellness site (HTML).
 
-**Building:**
-- 🔨 [DealForge](https://github.com/akshatsha5ill/DealForge) — Python
-- 🌐 [Moo](https://github.com/akshatsha5ill/Moo) — HTML
-- 📝 [dealforge1](https://github.com/akshatsha5ill/dealforge1) — TypeScript
-
-Currently exploring self-improving agents and web apps. Check out my repos below 👇
+Currently learning: RAG, real-time meeting APIs, full-stack TypeScript.
