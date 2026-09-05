@@ -6,7 +6,7 @@
 **About me**
 
 - 2nd-year Computer Science student
-- Currently learning Python, TypeScript, and the web (HTML/CSS, Tailwind)
+- Currently learning Python, TypeScript, DSA, and the web (HTML/CSS, Tailwind)
 - Interested in applied AI
 - Tinkering with [Moo](https://github.com/akshatsha5ill/Moo), a small wellness page from a college project
 
