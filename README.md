@@ -20,8 +20,8 @@
 
 **Stats**
 
-<a href="https://github.com/akshatsha5ill"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatsha5ill&show_icons=true&hide_border=true" alt="Akshat's GitHub stats" /></a>
-<a href="https://github.com/akshatsha5ill"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsha5ill&layout=compact&hide_border=true" alt="Top languages" /></a>
+![Profile views](https://komarev.com/ghpvc/?username=akshatsha5ill)
+![Followers](https://img.shields.io/github/followers/akshatsha5ill?style=social)
 
 **Connect**
 
